@@ -3,9 +3,11 @@
  */
 
 function greet(name) {
-    console.log("hello " + name);
+    console.log('knock knock knock '+ name);
+    console.log('knock knock knock '+ name);
+    console.log('knock knock knock '+ name);
 }
 
-console.log("hey we are learning git");
-
+// console.log("hey we are learning git");
+    
 greet("Aman");
